@@ -632,12 +632,6 @@ It provides a practical understanding of how cloud-hosted backend systems monito
 
 ---
 
-# 👨‍💻 Author
-
-## R. Bharath Rajagopal
-
-**Bachelor of Technology (Information Technology)**
-
 ### Technical Skills
 
 - Python
