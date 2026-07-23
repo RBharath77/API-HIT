@@ -694,7 +694,7 @@ Feel free to use, modify, and distribute this project for educational and person
 
 ### If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
-**Made with ❤️ by R. Bharath Rajagopal**
+**Made with ❤️ by Bharath**
 
 Backend Developer • Cloud Enthusiast • B.Tech Information Technology
 
