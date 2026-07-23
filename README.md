@@ -519,24 +519,6 @@ Demo/
 
 ---
 
-# 📸 Screenshots
-
-## 🌞 Light Dashboard
-
-<p align="center">
-<img src="Screenshots/Light%20Dashboard.png" width="900" alt="Light Dashboard">
-</p>
-
----
-
-## 🌙 Dark Dashboard
-
-<p align="center">
-<img src="Screenshots/Dark%20Dashboard.png" width="900" alt="Dark Dashboard">
-</p>
-
----
-
 # 📈 API Statistics
 
 The application provides real-time request analytics including:
